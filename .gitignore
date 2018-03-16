@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
+Old_scripts/*
+Previous\ analyses/*
+Manuscript/*
+eml.xml
+trait_full.csv
